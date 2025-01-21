@@ -1,4 +1,4 @@
-Shopping Trend Analysis
+# Shopping Trend Analysis
 
 Welcome to the **Shopping Trend Analysis** project! This project is designed to explore and analyze shopping patterns and trends to derive actionable insights. The analysis focuses on consumer behavior and purchasing habits using data-driven techniques.
 
